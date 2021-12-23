@@ -1,0 +1,17 @@
+{
+  "name": "google-api-token-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "askfor-token.js",
+  "scripts": {
+    "start": "node askfor-token.js"
+  },
+  "author": "cockroach",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "fs": "0.0.1-security",
+    "googleapis": "^39.2.0",
+    "readline": "^1.3.0"
+  }
+}
