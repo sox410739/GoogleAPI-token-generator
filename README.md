@@ -10,7 +10,7 @@
 # **Environment**
 先安裝
 ```
-npm isntall
+npm install
 ```
 建立 `config` 資料夾，並把憑證放在裡面並改成你要的名字
 ```
